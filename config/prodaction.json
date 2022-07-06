@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "tipa secret",
+    "mongoUri": "mongodb+srv://kart:123123cc@cluster0.64h0h.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
